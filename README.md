@@ -1,2 +1,1 @@
-# PrepCouser-Adrian
-Este es un repositorio de prueba para el modulo 2 de Henry 
+Este proyecto es una prueba para crear un repositorioy clonarlodesde gut hub a mi escritorio local.
