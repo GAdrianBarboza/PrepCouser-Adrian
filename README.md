@@ -1,1 +1,1 @@
-Este proyecto es una prueba para crear un repositorioy clonarlodesde gut hub a mi escritorio local.
+Este es un proyecto de prueba como crear un repositorio y clonarlo de github
